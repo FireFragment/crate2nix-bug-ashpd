@@ -1,0 +1,7 @@
+[package]
+name = "crate2nix-ashpd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ashpd = "0.9.1"
